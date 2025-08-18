@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tgahn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameClass2\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GameClass2\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44EAE114-15D8-4649-9A83-1AAEB75A2888}|Program.vcxproj|C:\\Users\\tgahn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameClass2\\Program\\Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{44EAE114-15D8-4649-9A83-1AAEB75A2888}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\GameClass2\\Program\\Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44EAE114-15D8-4649-9A83-1AAEB75A2888}|Program.vcxproj|solutionrelative:Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.c",
-              "DocumentMoniker": "C:\\Users\\tgahn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameClass2\\Program\\Program.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GameClass2\\Program\\Program.c",
               "RelativeDocumentMoniker": "Program.c",
-              "ToolTip": "C:\\Users\\tgahn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameClass2\\Program\\Program.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GameClass2\\Program\\Program.c",
               "RelativeToolTip": "Program.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-13T10:22:05.679Z",
               "EditorCaption": ""

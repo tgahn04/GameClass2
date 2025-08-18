@@ -1,7 +1,2 @@
 ﻿  Program.c
-C:\Users\tgahn\OneDrive\바탕 화면\GameClass2\Program\Program.c(78,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\tgahn\OneDrive\바탕 화면\GameClass2\Program\Program.c(108,24): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-      C:\Users\tgahn\OneDrive\바탕 화면\GameClass2\Program\Program.c(108,24):
-      자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
-  
-  Program.vcxproj -> C:\Users\tgahn\OneDrive\바탕 화면\GameClass2\Program\x64\Debug\Program.exe
+C:\Users\Administrator\Desktop\GameClass2\Program\Program.c(73,27): error C2197: 'void load(const char *)': 호출에 인수가 너무 많습니다.
