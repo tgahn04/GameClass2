@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44EAE114-15D8-4649-9A83-1AAEB75A2888}|Program.vcxproj|C:\\Users\\tgahn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameClass2\\Program\\Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44EAE114-15D8-4649-9A83-1AAEB75A2888}|Program.vcxproj|solutionrelative:Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C04A66-7D6C-47B1-848B-94AC5CD44592}|..\\Class3th (Input System)\\Class3th (Input System).vcxproj|C:\\Users\\tgahn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameClass2\\Class3th (Input System)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\tgahn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameClass2\\Class3th (Input System)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class3th (Input System)\\Source.c",
-              "ToolTip": "C:\\Users\\tgahn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameClass2\\Class3th (Input System)\\Source.c",
-              "RelativeToolTip": "..\\Class3th (Input System)\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-19T10:04:50.889Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -39,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.c",
               "ToolTip": "C:\\Users\\tgahn\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameClass2\\Program\\Program.c",
               "RelativeToolTip": "Program.c",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-13T10:22:05.679Z",
               "EditorCaption": ""
